@@ -1,1 +1,3 @@
-# wbroom.github.io
+# wbroom
+
+> A Mithril.js project
